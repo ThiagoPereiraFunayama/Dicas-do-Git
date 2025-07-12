@@ -31,10 +31,39 @@ Nesse repositório vai conter dicas do Git.
 
 `git config --global user.mail #Seu Email#`
 
-## Visualizando a configuração do seu Git
+## Visualizando a configuração do seu Git.
 
 `git config --list`
 
-# Criando o Repositório 
+# Criando o Repositório. 
 
-## 
+## Inicializando um repositório Git.
+
+`git init`
+
+## Adicionando um repositório remoto.
+
+`git remote add origin`
+
+# O commit.
+
+## Colocando o comentario.
+
+`git commit -m #Comentario#`
+
+## Branch
+
+`git branch -M main` por padrão colocar o main.
+
+`git checkout #Nome do branch#`  Trocar de branch.
+
+`git fetch` Obter alterações do repositório remoto.
+
+# O Push
+
+`git push -u origin #Nome da branch#`
+
+
+
+
+
