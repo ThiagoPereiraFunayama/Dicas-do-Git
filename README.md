@@ -3,7 +3,7 @@
 Nesse repositório vai conter dicas do Git.
 
  
-|[Git]( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px"/>
 
 ## O que é o Git.
 
