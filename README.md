@@ -67,6 +67,14 @@ Nesse repositório vai conter dicas do Git.
 
 `git merge #Nome da branch#`
 
+# O rm
+
+## o comando rm serve para remover algo.
+
+`git rm #arquivo#` aqui é o arquivo que será removido.
+
+`git rm -r #pasta#` aqui será a pasta que vai ser removida.
+
 
 
 
