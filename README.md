@@ -63,6 +63,9 @@ Nesse repositório vai conter dicas do Git.
 
 `git push -u origin #Nome da branch#`
 
+### merge mescla as branchs com a atual.
+
+`git merge #Nome da branch#`
 
 
 
